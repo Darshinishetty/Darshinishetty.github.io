@@ -5,24 +5,85 @@ body, h1, h2, h3, p, ul, li {
   H1{
     text-align: center;
   }
-body{
-    font-family:Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    background-color:#ddd8c2;
+
+
+.cat{
+  font-family:Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color:#ddd8c2;
+
 }
-.header {
-    background-color: #cec7c7; 
-    color: #fff; 
-    padding: 10px; 
-  }
-.footer {
-    background-color: #cc9c9c;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-  }
+
+body{
+  background-image: url("400.jpg");
+}
+
+
   img {
     margin-left: 300px;
     max-width: 400px;
     height: 200px;
   }
+
+  .center-heading{
+    text-align: center;
+  }
+
+  
+.image-container{
+  width:150px;
+  height:auto;
+  display:block;
+  text-align:center;
+  margin-left: 350px;
+  
+  
+}
+
+.image-class{
+  width:200px;
+  height:auto;
+
+}
+
+.tree{
+  text-align: center;
+  margin-left: 10px;
+}
+
+.man{
+  margin-top: 100px;
+  margin-left: 50px;
+
+}
+
+
+.women{
+  margin-left: 80px;
+}
+
+.sat{
+  margin-left: 50px;
+}
+
+.tap{
+  margin-left: 50px;
+}
+
+.car{
+  margin-left: 80px;
+}
+
+.mat{
+  margin-left: 80px;
+}
+
+.rat{
+  margin-left: 50px;
+}
+
+
+
+
+
+  
